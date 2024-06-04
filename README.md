@@ -1,2 +1,3 @@
-# user-service
-![uml](https://github.com/s2hoon/user-service/assets/82464990/25a3f9fe-5d50-4531-bd7c-3291d60b6161)
+# 구상한 아키텍쳐
+
+![아키텍쳐](https://github.com/s2hoon/user-service/assets/82464990/e4250be2-3c38-44f4-8574-94702bc9a3ba)
